@@ -66,7 +66,7 @@ Docker Desktop启用 WSL 集成步骤
 2. git clone this repository to your linux home directory (prefer WSL ubuntu distribution).
 
 ```
-git clone https://github.com/EnnisL/media-center
+git clone https://github.com/EnnisL/media-center.git
 ```
 
 3. check your nVidia driver.

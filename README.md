@@ -84,7 +84,7 @@ sudo mkdir -p /mnt/samba/downloads/completed/tv
 sudo mkdir -p /mnt/samba/downloads/music
 sudo mkdir -p /mnt/usb/
 
-sudo docker-compose up -d`
+sudo docker-compose up -d
 ```
 
 5. setting up all software.

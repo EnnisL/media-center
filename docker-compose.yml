@@ -82,9 +82,6 @@ services:
       - jackett
     ports:
       - 8989:8989
-    links:
-      - jackett
-      - qbittorrent
 
   bazarr:
     image: lscr.io/linuxserver/bazarr:latest
